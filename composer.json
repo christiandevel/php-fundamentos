@@ -1,0 +1,14 @@
+{
+  "name": "christianmoreno/text",
+  "autoload": {
+    "psr-4": {
+      "Text\\": "src/"
+    },
+    "files": [
+      "src/helpers.php"
+    ]
+  },
+  "require": {
+    "swiftmailer/swiftmailer": "^5.4"
+  }
+}
